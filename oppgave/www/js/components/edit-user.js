@@ -51,7 +51,7 @@ class EditUser extends LitElement {
     <form method="POST" >
       <div class="form-group">
       <label for="UserName">User name:</label>
-      <input type="text" pattern="[a-z0-9_-&$/+-\!]$" name="userName"   placeholder="myUserName99" value="${this.user.uid} required >
+      <input type="text" pattern="[a-z0-9_-&$/+-!]$" name="userName"   placeholder="myUserName99" value="${this.user.uid} required >
       </div>
       <div class="form-group">
       <label for="FirstName">First name:</label>
