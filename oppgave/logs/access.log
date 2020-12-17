@@ -1,0 +1,5 @@
+172.19.0.1 - - [17/Dec/2020:10:08:38 +0000] "GET / HTTP/1.1" 200 23671 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0"
+172.19.0.1 - - [17/Dec/2020:10:08:38 +0000] "GET /favicon.ico HTTP/1.1" 404 487 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0"
+172.19.0.1 - - [17/Dec/2020:10:08:59 +0000] "GET /4444 HTTP/1.1" 404 488 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0"
+172.19.0.1 - - [17/Dec/2020:10:12:59 +0000] "GET / HTTP/1.1" 200 23825 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0"
+172.19.0.1 - - [17/Dec/2020:10:12:59 +0000] "GET /favicon.ico HTTP/1.1" 404 487 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0"
